@@ -1,6 +1,3 @@
-import "../assets/styles/navbar.scss";
-
-
 export default function () {
   return (
     <>
