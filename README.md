@@ -1,6 +1,6 @@
 # React TypeScript Supabase Starter
 
-[![React-App-CI](https://github.com/mwolfhoffman/react-jack/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/mwolfhoffman/eact-typescript-supabase-starter/actions/workflows/main.yml)
+[![React-App-CI](https://github.com/mwolfhoffman/react-jack/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/mwolfhoffman/react-typescript-supabase-starter/actions/workflows/main.yml)
 
 
 I use React, Redux, and TypeScript for a lot of UIs that I build, so I created this starter to reduce a lot of the mundane boiler plate for new front end projects. 
