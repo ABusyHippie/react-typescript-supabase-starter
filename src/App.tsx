@@ -2,9 +2,8 @@ import "./App.scss";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Dashboard from "./views/dashboard";
 
-function App() {
+export default function() {
   return (
-    <>
       <Router>
         <Switch>
           <Route exact path="/">
@@ -12,8 +11,5 @@ function App() {
           </Route>
          </Switch>
       </Router>
-    </>
   );
 }
-
-export default App;
