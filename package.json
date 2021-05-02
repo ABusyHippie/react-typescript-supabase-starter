@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@jishida/react-awilix": "^0.1.0",
     "@supabase/supabase-js": "^1.4.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -14,6 +15,7 @@
     "@types/react-dom": "^17.0.0",
     "@types/react-router-bootstrap": "^0.24.5",
     "@types/react-router-dom": "^5.1.7",
+    "awilix": "^4.3.3",
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
     "js-cookie": "^2.2.1",
